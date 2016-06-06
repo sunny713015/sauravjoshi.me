@@ -1,0 +1,43 @@
+body {
+	padding: 125px;
+}
+p,center {
+	font-family: 'Raleway';
+	font-size: 36px;
+}
+#arrow {
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+	bottom: 0;
+	right: 48%;
+	position: absolute;
+}
+
+.click {
+	text-align: right;
+	font-family: 'Permanent Marker';
+	margin-right: 5%;
+}
+#line-right {
+	height: 250px;
+	width: 200px;
+	float: right;
+	margin-right: 5%;
+}
+.click-reverse {
+	float: left;
+	margin-left: 5%;
+}
+#line-left {
+	height: 250px;
+	width: 200px;
+	float: left;
+	margin-left: 7%;
+}
+.click-here {
+	margin-top: 15px;
+}
+button:hover {
+	background-color: white;
+}
